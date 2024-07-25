@@ -1,4 +1,4 @@
-# fooddetectionsystem-withnutritionalvalueprediction-andglucoseimpactassessment
+
 # Food Detection System with Nutritional Value and Glucose Impact Assessment
 
 ## Overview
@@ -28,7 +28,7 @@ A comprehensive tool for diabetic patients, this system uses a webcam to capture
 1. Clone the repository and navigate to the project directory.
     ```sh
     git clone https://github.com/KartikTrivedi638/fooddetectionsystem-withnutritionalvalueprediction-andglucoseimpactassessment.git
-    cd FoodDetectionSystem
+    cd fooddetectionsystem-withnutritionalvalueprediction-andglucoseimpactassessment
     ```
 2. Install the required dependencies from `requirements.txt`.
     ```sh
